@@ -10,7 +10,7 @@
 }
 
 body {
-  background: #162561;
+  background: #d1f3db;
   background-image: radial-gradient(
       circle at 20% 100%,
       rgba(184, 184, 184, 0.1) 0%,
@@ -20,7 +20,7 @@ body {
       rgba(7, 7, 7, 0.1) 66%,
       rgba(7, 7, 7, 0.1) 99%
     ),
-    linear-gradient(40deg, #040a22, #162561, #202e64, #6f7aa6);
+    linear-gradient(40deg, #ffffff, #7d144c, #7d144c, #c22378);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -47,7 +47,7 @@ section {
   line-height: 1.2;
   letter-spacing: 1px;
   margin-bottom: 36px;
-  color: #fff;
+  color: #f6f3f3;
 }
 
 .content p {
@@ -55,12 +55,12 @@ section {
   font-weight: 300;
   line-height: 1.5;
   margin-bottom: 30px;
-  color: #fff;
+  color: #f6f2f2;
 }
 
 .content button {
   background: #eaeaea;
-  color: #202134;
+  color: #eeeef3;
   font-size: clamp(0.9rem, 4vw, 1rem);
   font-weight: 600;
   border: 0;

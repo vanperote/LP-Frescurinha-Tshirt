@@ -1,6 +1,6 @@
 :root {
   --primary: #CE3172;
-  --secondary: #0a1f44;
+  --secondary: #9A88FD;
   --primary-invert: #fff;
   --secondary-invert: #fff;
 
@@ -103,7 +103,7 @@ button:focus {
   width: 100%;
   text-align: center;
   padding: 1rem 0;
-  background-color: #0a1f44;
+  background-color: #E2C542;
   font-size: .9rem;
   cursor: pointer;
   z-index: 1;
@@ -319,7 +319,7 @@ button:focus {
 }
 
 .highlight {
-  color: var(--primary);
+  color: #ee9913;
 }
 
 /* ----------------------------- */
@@ -1335,7 +1335,7 @@ textarea.contact-form__input {
 /* ====================================== */
 
 .block-44 {
-  --block-background: #0a1f44;
+  --block-background: #7d144c;
   --block-text-color: white;
   --text-primary: var(--block-text-color);
   background: var(--block-background);
@@ -1436,7 +1436,7 @@ textarea.contact-form__input {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #6f66c7;
+  background-color:  #CE3172;
   border-radius: 50%;
   padding: 15px;
   color: #fff;
@@ -1616,7 +1616,7 @@ section .bg {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #6f66c7;
+  background-color: #CE3172;
   border-radius: 50%;
   padding: 15px;
   color: #fff;
@@ -1629,7 +1629,7 @@ section .bg {
 }
 
 .links li a:hover {
-  background-color: #257381;
+  background-color: #7e2582;
 }
 
 .links li a:hover .icon {
